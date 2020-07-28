@@ -1,0 +1,67 @@
+body{
+    background-color: #ffffff;
+    margin: 0px 0px 0px 0px;
+    font-family: "calibri";
+}
+
+#header{
+    background-color: #329A97;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#header h1{
+    text-align: center;
+    color: #F4FA3C;
+    letter-spacing: 7px;
+    text-decoration: underline;
+}
+#nav{
+    width: 60%;
+    margin: auto;
+}
+
+#nav a{
+     background-color: #F4FA3C;
+     width: 150px;
+     border: solid 2px #329A97;
+     text-decoration: none;
+     color: #329A97;
+     padding-left: 20px;
+     padding-right: 20px;
+}
+
+
+#main{
+    margin: auto;
+    border: solid 1px gray;
+    width: 80%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#main h2, #main form{
+    text-align: center;
+}
+
+#main table{
+    width: 100%;
+    text-align: center;
+    color: #329A97;
+}
+
+#main table th{
+     background-color: #329A97;
+     color: #ffffff;
+}
+
+.btn{
+    background-color: #F4FA3C;
+    width: 150px;
+    border: solid 2px #329A97;
+    font-size: 18px;
+    text-decoration: none;
+    color: #329A97;
+    padding-left: 10px;
+    padding-right: 10px;
+}
